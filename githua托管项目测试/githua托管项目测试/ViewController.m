@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    //大解放路口大事记覅饿哦我国
 }
 
 - (void)didReceiveMemoryWarning {
